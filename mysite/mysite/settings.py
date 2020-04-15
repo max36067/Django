@@ -25,7 +25,7 @@ SECRET_KEY = '2fsq4%)xt=fmkrxw@3=r_equ(pi4+r8@veqz0%-d&pm4y8!mmt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
